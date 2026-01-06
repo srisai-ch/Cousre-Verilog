@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Mon Dec 29 17:32:54 2025
+# Process ID         : 2288
+# Current directory  : C:/Users/srisa/OneDrive/Desktop/projects/Cousre-Verilog/full_adder/full_adder.runs/synth_1
+# Command line       : vivado.exe -log full_adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source full_adder.tcl
+# Log file           : C:/Users/srisa/OneDrive/Desktop/projects/Cousre-Verilog/full_adder/full_adder.runs/synth_1/full_adder.vds
+# Journal file       : C:/Users/srisa/OneDrive/Desktop/projects/Cousre-Verilog/full_adder/full_adder.runs/synth_1\vivado.jou
+# Running On         : LAPTOP-ACH225LA
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 9 5900HS with Radeon Graphics        
+# CPU Frequency      : 3294 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 16542 MB
+# Swap memory        : 12348 MB
+# Total Virtual      : 28890 MB
+# Available Virtual  : 12552 MB
+#-----------------------------------------------------------
+source full_adder.tcl -notrace

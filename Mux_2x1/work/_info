@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/srisa/OneDrive/Desktop/projects/Cousre-Verilog/Mux_2x1
+vmux_2x1
+Z1 !s110 1766528786
+!i10b 1
+!s100 GE6A]IY3T50YRR5[b:[be0
+IZQVBL1KH;?3JHNOO<V]oH0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1766528465
+8mux_2x1_dataflow.v
+Fmux_2x1_dataflow.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1766528786.000000
+Z5 !s107 mux_2x1_dataflow.v|tb_mux_2x1.v|
+Z6 !s90 -reportprogress|300|tb_mux_2x1.v|
+!i113 1
+Z7 tCvgOpt 0
+vmux_2x1_behv
+!s110 1766528116
+!i10b 1
+!s100 <SbC61LXz]BRomZ^V@6i43
+IfEWgEZ<G5AL=L<mYA_5HE3
+R2
+R0
+w1766527940
+8mux_2x1_behv.v
+Fmux_2x1_behv.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1766528115.000000
+!s107 mux_2x1_behv.v|tb_mux_2x1.v|
+R6
+!i113 1
+R7
+vtb
+R1
+!i10b 1
+!s100 CWnAOn>;h86PHI1:[PaRg0
+I?a<5AS:C[D@nFgDS6FgMU3
+R2
+R0
+w1766528781
+8tb_mux_2x1.v
+Ftb_mux_2x1.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7

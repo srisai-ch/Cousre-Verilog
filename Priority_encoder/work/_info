@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/srisa/OneDrive/Desktop/projects/Cousre-Verilog/Priority_encoder
+vpencoder_4x2
+!s110 1767425861
+!i10b 1
+!s100 i`UBHi=TD`<olYzDK1gZ33
+IS3_chHIOVH><SinOnEeEY1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1767425131
+8pencoder_4x2.v
+Fpencoder_4x2.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1767425861.000000
+!s107 pencoder_4x2.v|tb_pencoder.v|
+Z3 !s90 -reportprogress|300|tb_pencoder.v|
+!i113 1
+Z4 tCvgOpt 0
+vpencoder_4x2_dataflow
+Z5 !s110 1767426933
+!i10b 1
+!s100 WHb@_LjS?On3Nh`:^C@Jk0
+IUTD__;SWVnk8RZ5h]`jkm3
+R1
+R0
+w1767426910
+8pencoder_4x2_dataflow.v
+Fpencoder_4x2_dataflow.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z6 !s108 1767426933.000000
+Z7 !s107 pencoder_4x2_dataflow.v|tb_pencoder.v|
+R3
+!i113 1
+R4
+vpencoder_4x2_struct
+!s110 1767426799
+!i10b 1
+!s100 CEZX<M@6NRZW1TMeSFjc@0
+IP1FPJhDYkkXTKKk^CE_4N0
+R1
+R0
+w1767426783
+8pencoder_4x2_struct.v
+Fpencoder_4x2_struct.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1767426799.000000
+!s107 pencoder_4x2_struct.v|tb_pencoder.v|
+R3
+!i113 1
+R4
+vtb
+R5
+!i10b 1
+!s100 Bd8DO3GnBE48N=<UfagOZ1
+ImfAHf62femQ`j<AGVbbhm2
+R1
+R0
+w1767426930
+8tb_pencoder.v
+Ftb_pencoder.v
+L0 3
+R2
+r1
+!s85 0
+31
+R6
+R7
+R3
+!i113 1
+R4

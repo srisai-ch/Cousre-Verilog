@@ -1,0 +1,16 @@
+Time resolution is 1 ps
+1000 - a = 0, b = 0, ci = 0, sum = 0, carryout = 0
+2000 - a = 0, b = 0, ci = 1, sum = 1, carryout = 0
+3000 - a = 0, b = 0, ci = 0, sum = 0, carryout = 0
+4000 - a = 0, b = 0, ci = 0, sum = 0, carryout = 0
+5000 - a = 1, b = 1, ci = 1, sum = 1, carryout = 1
+6000 - a = 0, b = 1, ci = 1, sum = 0, carryout = 1
+7000 - a = 1, b = 1, ci = 1, sum = 1, carryout = 1
+8000 - a = 0, b = 1, ci = 1, sum = 0, carryout = 1
+9000 - a = 1, b = 0, ci = 1, sum = 0, carryout = 1
+10000 - a = 1, b = 1, ci = 1, sum = 1, carryout = 1
+11000 - a = 0, b = 1, ci = 0, sum = 1, carryout = 0
+12000 - a = 0, b = 0, ci = 0, sum = 0, carryout = 0
+13000 - a = 0, b = 0, ci = 1, sum = 1, carryout = 0
+14000 - a = 0, b = 1, ci = 1, sum = 0, carryout = 1
+15000 - a = 1, b = 1, ci = 1, sum = 1, carryout = 1

@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/srisa/OneDrive/Desktop/projects/Cousre-Verilog/Encoder
+vencoder_4x2
+!s110 1767320254
+!i10b 1
+!s100 Ddo_0U_[^GQ8]nC`SdTeG3
+I>Ta>NchiV59^eD3eEzS]I1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1767136869
+8encoder_4x2.v
+Fencoder_4x2.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1767320254.000000
+!s107 encoder_4x2.v|tb_encoder.v|
+!s90 -reportprogress|300|tb_encoder.v|
+!i113 1
+Z3 tCvgOpt 0
+vencoder_8x3
+Z4 !s110 1767320475
+!i10b 1
+!s100 gS8U1FZdZ1fBN^deo?]m01
+IgEh6IBV_<K6M<bWX[3AEI0
+R1
+R0
+w1767136844
+8encoder_8x3.v
+Fencoder_8x3.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z5 !s108 1767320475.000000
+Z6 !s107 encoder_8x3.v|tb_encoder_8x3.v|
+Z7 !s90 -reportprogress|300|tb_encoder_8x3.v|
+!i113 1
+R3
+vtb
+R4
+!i10b 1
+!s100 X<8HN:@Hc@d^DP7a[j^Bf3
+IlnIWQE^MFGP=LMLZB0o8I2
+R1
+R0
+w1767320466
+8tb_encoder_8x3.v
+Ftb_encoder_8x3.v
+L0 3
+R2
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R3
