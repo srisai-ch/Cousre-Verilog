@@ -22,7 +22,7 @@ processor u0(
     .ready_i(ready)
 );
 
-memory mem(
+memory u1(
     .clk_i(clk), 
     .rst_i(rst), 
     .addr_i(addr), 
