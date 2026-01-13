@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/srisa/OneDrive/Desktop/projects/Cousre-Verilog/Hierarchical Modeling
+vfull_adder
+!s110 1768346095
+!i10b 1
+!s100 NKgY`RRJS3>78O@j_?@8J2
+IVAoFY3?Yek5XG8]m9CL`k3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1768345151
+8full_adder_gate.v
+Ffull_adder_gate.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1768346095.000000
+!s107 full_adder_gate.v|full_adder_4bit.v|tb_full_adder.v|
+Z3 !s90 -reportprogress|300|tb_full_adder.v|
+!i113 1
+Z4 tCvgOpt 0
+vfull_adder_4bit
+Z5 !s110 1768347066
+!i10b 1
+!s100 Xb=8W30_<9TUQfALB_]bJ2
+IJdl=292igZ<PFBm]l?2VC2
+R1
+R0
+w1768347039
+8full_adder_4bit_dataflow.v
+Ffull_adder_4bit_dataflow.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z6 !s108 1768347066.000000
+Z7 !s107 full_adder_4bit_dataflow.v|tb_full_adder.v|
+R3
+!i113 1
+R4
+vtb
+R5
+!i10b 1
+!s100 oG^ENdd[g`j2daSB_RPNW1
+I3?z8KhPiN2Cm[0EHU@k2i3
+R1
+R0
+w1768347064
+8tb_full_adder.v
+Ftb_full_adder.v
+L0 3
+R2
+r1
+!s85 0
+31
+R6
+R7
+R3
+!i113 1
+R4
