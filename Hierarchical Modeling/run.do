@@ -1,7 +1,7 @@
 
 vlib work
 
-vlog tb_full_adder.v
+vlog tb_full_adder.v +define+WIDTH=15
 
 vsim work.tb
 

@@ -2,7 +2,7 @@
 
 module tb;
 
-parameter WIDTH_TB = 8;
+parameter WIDTH_TB = `WIDTH;
 reg [WIDTH_TB-1:0] a, b;
 reg cin;
 wire [WIDTH_TB-1:0] s;
