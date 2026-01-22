@@ -2,14 +2,14 @@
 
 module tb;
 
-parameter WIDTH = 6;
-reg [WIDTH-1:0] a, b;
+parameter WIDTH_TB = 8;
+reg [WIDTH_TB-1:0] a, b;
 reg cin;
-wire [WIDTH-1:0] s;
+wire [WIDTH_TB-1:0] s;
 wire co;
 integer seed;
 
-adder dut(.A(a),.B(b),.Cin(cin),.Sum(s),.Cout(co));
+adder #(.WIDTH(WIDTH_TB))dut(.A(a),.B(b),.Cin(cin),.Sum(s),.Cout(co));
 
 initial begin
    

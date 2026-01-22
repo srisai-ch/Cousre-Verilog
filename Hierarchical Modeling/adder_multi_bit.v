@@ -1,6 +1,6 @@
 `include "full_adder_gate.v"
 module adder#(
-    parameter WIDTH = 6
+    parameter WIDTH = 12
 )(
     input [WIDTH-1:0] A,
     input [WIDTH-1:0] B,
