@@ -2,12 +2,10 @@
 
 vlib work
 
-vlog tb_comp_1bit.v
+vlog alu.v
 
 #elaboration
 vsim work.tb
-
-add wave -position insertpoint sim:/tb/dut/*
 
 #simulation
 run -all
