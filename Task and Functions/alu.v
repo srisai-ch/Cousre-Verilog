@@ -17,10 +17,13 @@ reg [3:0] operation_code;
 reg [31:0] result;
 
 initial begin
+
     repeat (20) begin
-        operand1 = $random % 256; // Random 8-bit number
-        operand2 = $random % 256; // Random 8-bit number
-        operation_code = $random % 9; // Random operation code between 0 and 8
+    //{operand1, operand2, operation_code} =  $random;
+
+      operand1 = $random % 256; // Random 8-bit number
+      operand2 = $random % 256; // Random 8-bit number
+      operation_code = $urandom_range(0,8); // Random operation code between 0 and 8
 
         result = alu(operand1, operand2, operation_code);
         #1;
