@@ -2,7 +2,7 @@
 
 vlib work
 
-vlog alu.v
+vlog static_automatic.sv
 
 #elaboration
 vsim work.tb

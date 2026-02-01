@@ -8,23 +8,48 @@ z2
 !i10f 100
 cModel Technology
 Z0 dC:/Users/srisa/OneDrive/Desktop/projects/Cousre-Verilog/Task and Functions
-vtb
-!s110 1769916201
-!i10b 1
-!s100 5:BjY53A4naP:hYIXelAH1
-Ih7EkjJfSAVclDMN5O2mGU1
-VDg1SIo80bB@j0V0VzS_@n1
-R0
-w1769916197
-8alu.v
-Falu.v
-L0 1
-OV;L;10.5b;63
+Xstatic_automatic_sv_unit
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+VSA]`]mV?YiCe8>?h;Bf@W3
 r1
 !s85 0
 31
-!s108 1769916201.000000
-!s107 alu.v|
-!s90 -reportprogress|300|alu.v|
+!i10b 1
+!s100 [j]Ugb6Wj^;3b6i3D@A0<0
+ISA]`]mV?YiCe8>?h;Bf@W3
+!i103 1
+S1
+R0
+Z2 w1769917382
+Z3 8static_automatic.sv
+Z4 Fstatic_automatic.sv
+L0 1
+Z5 OV;L;10.5b;63
+Z6 !s108 1769917384.000000
+Z7 !s107 static_automatic.sv|
+Z8 !s90 -reportprogress|300|static_automatic.sv|
 !i113 1
-tCvgOpt 0
+Z9 tCvgOpt 0
+vtb
+R1
+DXx4 work 24 static_automatic_sv_unit 0 22 SA]`]mV?YiCe8>?h;Bf@W3
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 WieY>3gGDYFR0IV<^m[:l1
+IJk>>TJk@R1V2JSV=<S1M[3
+!s105 static_automatic_sv_unit
+S1
+R0
+R2
+R3
+R4
+L0 24
+R5
+R6
+R7
+R8
+!i113 1
+R9
