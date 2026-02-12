@@ -24,6 +24,8 @@ end
 initial begin
     
     res = 1;
+    a = 0;
+    b = 0;
     repeat(2) @(posedge clk);
     res = 0;
     repeat (20) begin

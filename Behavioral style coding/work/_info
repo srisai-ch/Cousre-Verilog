@@ -9,42 +9,62 @@ z2
 cModel Technology
 Z0 dC:/Users/srisa/OneDrive/Desktop/projects/Cousre-Verilog/Behavioral style coding
 vcircuit2
-Z1 !s110 1770857407
+!s110 1770873474
 !i10b 1
 !s100 PV^JOgRI15_>MUm;POaz[1
 IP2QQIokKnSIRl`@4FPihz2
-Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
 R0
 w1770854650
 8circuit2.v
 Fcircuit2.v
 L0 1
-Z3 OV;L;10.5b;63
+Z2 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1770857407.000000
-Z5 !s107 circuit2.v|circuit2_tb.v|
-Z6 !s90 -reportprogress|300|circuit2_tb.v|
+!s108 1770873474.000000
+!s107 circuit2.v|circuit2_tb.v|
+!s90 -reportprogress|300|circuit2_tb.v|
 !i113 1
-Z7 tCvgOpt 0
+Z3 tCvgOpt 0
 vtb
-R1
+!s110 1770878831
 !i10b 1
-!s100 B6fE]<=33R5mUIXM69S`E3
-I_kO4mM0A0UB41nWo2nOCV3
-R2
+!s100 4ncmmom7]dSg86<5:D?@12
+I43gI=>`6f3WB[M<aIE95P0
+R1
 R0
-w1770857346
-8circuit2_tb.v
-Fcircuit2_tb.v
+w1770878826
+8non_blocking.v
+Fnon_blocking.v
 L0 3
-R3
+R2
 r1
 !s85 0
 31
-R4
-R5
-R6
+!s108 1770878831.000000
+!s107 non_blocking.v|
+!s90 -reportprogress|300|non_blocking.v|
 !i113 1
-R7
+R3
+vtop
+!s110 1770874891
+!i10b 1
+!s100 GCneTjPD`Xzk1X<R5ZRNb1
+IL]a[SoVgKdCXVF5lWKiD]1
+R1
+R0
+w1770874829
+8swapping.v
+Fswapping.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1770874891.000000
+!s107 swapping.v|
+!s90 -reportprogress|300|swapping.v|
+!i113 1
+R3
