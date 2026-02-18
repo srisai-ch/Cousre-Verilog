@@ -1,8 +1,9 @@
 vlib work
 
-vlog real_1.v
+vlog arbiter.v
+vlog arbiter_tb.v
 
-vsim tb
+vsim tb_arbiter
 
 #add wave -position insertpoint sim:/tb/dut/*
 

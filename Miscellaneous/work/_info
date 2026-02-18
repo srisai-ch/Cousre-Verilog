@@ -8,18 +8,38 @@ z2
 !i10f 100
 cModel Technology
 Z0 dC:/Users/srisa/OneDrive/Desktop/projects/Cousre-Verilog/Miscellaneous
+vqos_arbiter_32
+Z1 !s110 1771452029
+!i10b 1
+!s100 XN[V=Z?NARQj[DECe;kk]1
+I@l<jfgknPT=0DbXbY;AW50
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1771451730
+8arbiter.v
+Farbiter.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1771452029.000000
+!s107 arbiter.v|
+!s90 -reportprogress|300|arbiter.v|
+!i113 1
+Z5 tCvgOpt 0
 vtb
 !s110 1767998148
 !i10b 1
 !s100 VRj]@:Vcz[G6UCn:z`zU13
 I>XcTf4RK>dH3D3ZY`Tdbb3
-VDg1SIo80bB@j0V0VzS_@n1
+R2
 R0
 w1767998145
 8real_1.v
 Freal_1.v
 L0 1
-OV;L;10.5b;63
+R3
 r1
 !s85 0
 31
@@ -27,4 +47,24 @@ r1
 !s107 real_1.v|
 !s90 -reportprogress|300|real_1.v|
 !i113 1
-tCvgOpt 0
+R5
+vtb_arbiter
+R1
+!i10b 1
+!s100 UPJFc=QGCl6>j:64j7:;=2
+I4]CVL0@]I:PHoF>LDSmDS1
+R2
+R0
+w1771451860
+8arbiter_tb.v
+Farbiter_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 arbiter_tb.v|
+!s90 -reportprogress|300|arbiter_tb.v|
+!i113 1
+R5
