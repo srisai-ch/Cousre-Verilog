@@ -1,0 +1,81 @@
+# do run.do
+# Start time: 16:45:23 on Feb 18,2026
+# vlog counter_bcd_decade.v counter_down_sync.v counter_gray.v counter_johnson.v counter_mod_n.v counter_ring.v counter_tb.v counter_up_down.v counter_up_sync.v 
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# -- Compiling module counter_bcd_decade
+# -- Compiling module counter_down_sync
+# -- Compiling module counter_gray
+# -- Compiling module counter_johnson
+# -- Compiling module counter_mod_n
+# -- Compiling module counter_ring
+# -- Compiling module counter_tb
+# -- Compiling module counter_up_down
+# -- Compiling module counter_up_sync
+# 
+# Top level modules:
+# 	counter_tb
+# End time: 16:45:23 on Feb 18,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim counter_tb 
+# Start time: 16:45:23 on Feb 18,2026
+# Loading work.counter_tb
+# Loading work.counter_up_sync
+# Loading work.counter_down_sync
+# Loading work.counter_up_down
+# Loading work.counter_mod_n
+# Loading work.counter_bcd_decade
+# Loading work.counter_gray
+# Loading work.counter_ring
+# Loading work.counter_johnson
+# T=0 | up=0 down=255 updn=0 mod=0 mod_tc=0 bcd=0 bcd_tc=0 gray=00000000 ring=00000001 john=00000000
+# T=25000 | up=1 down=254 updn=1 mod=1 mod_tc=0 bcd=1 bcd_tc=0 gray=00000001 ring=00000010 john=00000001
+# T=35000 | up=2 down=253 updn=2 mod=2 mod_tc=0 bcd=2 bcd_tc=0 gray=00000011 ring=00000100 john=00000011
+# T=45000 | up=3 down=252 updn=3 mod=3 mod_tc=0 bcd=3 bcd_tc=0 gray=00000010 ring=00001000 john=00000111
+# T=55000 | up=4 down=251 updn=4 mod=4 mod_tc=0 bcd=4 bcd_tc=0 gray=00000110 ring=00010000 john=00001111
+# T=65000 | up=5 down=250 updn=5 mod=5 mod_tc=0 bcd=5 bcd_tc=0 gray=00000111 ring=00100000 john=00011111
+# T=75000 | up=6 down=249 updn=6 mod=6 mod_tc=0 bcd=6 bcd_tc=0 gray=00000101 ring=01000000 john=00111111
+# T=85000 | up=7 down=248 updn=7 mod=7 mod_tc=0 bcd=7 bcd_tc=0 gray=00000100 ring=10000000 john=01111111
+# T=95000 | up=8 down=247 updn=8 mod=8 mod_tc=0 bcd=8 bcd_tc=0 gray=00001100 ring=00000001 john=11111111
+# T=105000 | up=9 down=246 updn=9 mod=9 mod_tc=1 bcd=9 bcd_tc=1 gray=00001101 ring=00000010 john=11111110
+# T=115000 | up=10 down=245 updn=10 mod=0 mod_tc=0 bcd=0 bcd_tc=0 gray=00001111 ring=00000100 john=11111100
+# T=125000 | up=11 down=244 updn=11 mod=1 mod_tc=0 bcd=1 bcd_tc=0 gray=00001110 ring=00001000 john=11111000
+# T=135000 | up=12 down=243 updn=12 mod=2 mod_tc=0 bcd=2 bcd_tc=0 gray=00001010 ring=00010000 john=11110000
+# T=145000 | up=13 down=242 updn=13 mod=3 mod_tc=0 bcd=3 bcd_tc=0 gray=00001011 ring=00100000 john=11100000
+# T=155000 | up=14 down=241 updn=14 mod=4 mod_tc=0 bcd=4 bcd_tc=0 gray=00001001 ring=01000000 john=11000000
+# T=165000 | up=15 down=240 updn=15 mod=5 mod_tc=0 bcd=5 bcd_tc=0 gray=00001000 ring=10000000 john=10000000
+# T=175000 | up=16 down=239 updn=16 mod=6 mod_tc=0 bcd=6 bcd_tc=0 gray=00011000 ring=00000001 john=00000000
+# T=185000 | up=17 down=238 updn=17 mod=7 mod_tc=0 bcd=7 bcd_tc=0 gray=00011001 ring=00000010 john=00000001
+# T=195000 | up=18 down=237 updn=18 mod=8 mod_tc=0 bcd=8 bcd_tc=0 gray=00011011 ring=00000100 john=00000011
+# T=205000 | up=19 down=236 updn=19 mod=9 mod_tc=1 bcd=9 bcd_tc=1 gray=00011010 ring=00001000 john=00000111
+# T=215000 | up=20 down=235 updn=20 mod=0 mod_tc=0 bcd=0 bcd_tc=0 gray=00011110 ring=00010000 john=00001111
+# T=225000 | up=21 down=234 updn=19 mod=1 mod_tc=0 bcd=1 bcd_tc=0 gray=00011111 ring=00100000 john=00011111
+# T=235000 | up=22 down=233 updn=18 mod=2 mod_tc=0 bcd=2 bcd_tc=0 gray=00011101 ring=01000000 john=00111111
+# T=245000 | up=23 down=232 updn=17 mod=3 mod_tc=0 bcd=3 bcd_tc=0 gray=00011100 ring=10000000 john=01111111
+# T=255000 | up=24 down=231 updn=16 mod=4 mod_tc=0 bcd=4 bcd_tc=0 gray=00010100 ring=00000001 john=11111111
+# T=265000 | up=25 down=230 updn=15 mod=5 mod_tc=0 bcd=5 bcd_tc=0 gray=00010101 ring=00000010 john=11111110
+# T=275000 | up=26 down=229 updn=14 mod=6 mod_tc=0 bcd=6 bcd_tc=0 gray=00010111 ring=00000100 john=11111100
+# T=285000 | up=27 down=228 updn=13 mod=7 mod_tc=0 bcd=7 bcd_tc=0 gray=00010110 ring=00001000 john=11111000
+# T=295000 | up=28 down=227 updn=12 mod=8 mod_tc=0 bcd=8 bcd_tc=0 gray=00010010 ring=00010000 john=11110000
+# T=305000 | up=29 down=226 updn=11 mod=9 mod_tc=1 bcd=9 bcd_tc=1 gray=00010011 ring=00100000 john=11100000
+# T=315000 | up=30 down=225 updn=10 mod=0 mod_tc=0 bcd=0 bcd_tc=0 gray=00010001 ring=01000000 john=11000000
+# T=325000 | up=31 down=224 updn=9 mod=1 mod_tc=0 bcd=1 bcd_tc=0 gray=00010000 ring=10000000 john=10000000
+# T=335000 | up=32 down=223 updn=8 mod=2 mod_tc=0 bcd=2 bcd_tc=0 gray=00110000 ring=00000001 john=00000000
+# T=395000 | up=33 down=222 updn=9 mod=3 mod_tc=0 bcd=3 bcd_tc=0 gray=00110001 ring=00000010 john=00000001
+# T=405000 | up=34 down=221 updn=10 mod=4 mod_tc=0 bcd=4 bcd_tc=0 gray=00110011 ring=00000100 john=00000011
+# T=415000 | up=35 down=220 updn=11 mod=5 mod_tc=0 bcd=5 bcd_tc=0 gray=00110010 ring=00001000 john=00000111
+# T=425000 | up=36 down=219 updn=12 mod=6 mod_tc=0 bcd=6 bcd_tc=0 gray=00110110 ring=00010000 john=00001111
+# T=435000 | up=37 down=218 updn=13 mod=7 mod_tc=0 bcd=7 bcd_tc=0 gray=00110111 ring=00100000 john=00011111
+# T=445000 | up=38 down=217 updn=14 mod=8 mod_tc=0 bcd=8 bcd_tc=0 gray=00110101 ring=01000000 john=00111111
+# T=455000 | up=39 down=216 updn=15 mod=9 mod_tc=1 bcd=9 bcd_tc=1 gray=00110100 ring=10000000 john=01111111
+# T=465000 | up=40 down=215 updn=16 mod=0 mod_tc=0 bcd=0 bcd_tc=0 gray=00111100 ring=00000001 john=11111111
+# T=475000 | up=41 down=214 updn=17 mod=1 mod_tc=0 bcd=1 bcd_tc=0 gray=00111101 ring=00000010 john=11111110
+# T=485000 | up=42 down=213 updn=18 mod=2 mod_tc=0 bcd=2 bcd_tc=0 gray=00111111 ring=00000100 john=11111100
+# T=495000 | up=43 down=212 updn=19 mod=3 mod_tc=0 bcd=3 bcd_tc=0 gray=00111110 ring=00001000 john=11111000
+# T=505000 | up=44 down=211 updn=20 mod=4 mod_tc=0 bcd=4 bcd_tc=0 gray=00111010 ring=00010000 john=11110000
+# T=515000 | up=45 down=210 updn=21 mod=5 mod_tc=0 bcd=5 bcd_tc=0 gray=00111011 ring=00100000 john=11100000
+# T=525000 | up=46 down=209 updn=22 mod=6 mod_tc=0 bcd=6 bcd_tc=0 gray=00111001 ring=01000000 john=11000000
+# T=535000 | up=47 down=208 updn=23 mod=7 mod_tc=0 bcd=7 bcd_tc=0 gray=00111000 ring=10000000 john=10000000
+# ** Note: $finish    : counter_tb.v(109)
+#    Time: 545 ns  Iteration: 1  Instance: /counter_tb
+# End time: 16:45:24 on Feb 18,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
