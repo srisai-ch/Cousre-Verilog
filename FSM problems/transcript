@@ -1,0 +1,21 @@
+# vsim -c tb_seq_1011_moore -do "run -all; quit -f" 
+# Start time: 21:38:20 on Feb 18,2026
+# Loading sv_std.std
+# Loading work.tb_seq_1011_moore
+# Loading work.seq_1011_moore
+# run -all
+# OK    t=26 bit=1 hist=0001 y=0
+# OK    t=36 bit=0 hist=0010 y=0
+# OK    t=46 bit=1 hist=0101 y=0
+# OK    t=56 bit=1 hist=1011 y=1
+# OK    t=66 bit=0 hist=0110 y=0
+# OK    t=76 bit=1 hist=1101 y=0
+# OK    t=86 bit=1 hist=1011 y=1
+# OK    t=96 bit=0 hist=0110 y=0
+# OK    t=106 bit=0 hist=1100 y=0
+# OK    t=116 bit=1 hist=1001 y=0
+# TEST PASSED
+# ** Note: $finish    : tb_fsm.sv(67)
+#    Time: 116 ps  Iteration: 0  Instance: /tb_seq_1011_moore
+# End time: 21:38:20 on Feb 18,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
