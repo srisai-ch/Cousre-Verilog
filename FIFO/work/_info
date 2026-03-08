@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/srisa/OneDrive/Desktop/projects/Cousre-Verilog/FIFO
+vfifo_sync
+Z1 !s110 1772952480
+!i10b 1
+!s100 R62g:2d4:]h0bNz4GkMc81
+IJdZW@d]eQCUzi2GN:KXIf3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1772952445
+8fifo_sync.v
+Ffifo_sync.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1772952480.000000
+Z5 !s107 fifo_sync.v|tb_fifo_sync.v|
+Z6 !s90 -reportprogress|300|tb_fifo_sync.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 5bfZc2UFZh?lV3jcURn4;3
+IeVdR[BPWTlQl^f8?i:I^53
+R2
+R0
+w1772952478
+8tb_fifo_sync.v
+Ftb_fifo_sync.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
